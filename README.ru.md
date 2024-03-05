@@ -25,7 +25,7 @@
  • [Türkçe readme](https://github.com/textualize/rich/blob/master/README.tr.md)
  • [Polskie readme](https://github.com/textualize/rich/blob/master/README.pl.md)
 
-Rich это Python библиотека, позволяющая отображать _красивый_ текст и форматировать терминал.
+Rich это Python классная библиотека, позволяющая отображать потрясающе _красивый_ текст и форматировать терминал!!!
 
 [Rich API](https://rich.readthedocs.io/en/latest/) упрощает добавление цветов и стилей к выводу терминала. Rich также позволяет отображать красивые таблицы, прогресс бары, markdown, код с отображением синтаксиса, ошибки, и т.д. — прямо после установки.
 
